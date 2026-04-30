@@ -1,0 +1,42 @@
+header{
+    
+    color: green;
+    background-color: yellow;
+    font-size: 25px;
+    width: 100%;    
+}
+
+footer{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+}
+
+.cuadro{
+    background-color: white;
+    margin: 10px;
+    background-color: aliceblue;
+}
+body{
+    background-color: black;
+}
+
+.preguntas{
+    color: blue;
+    
+}
+
+header>h2{
+    text-shadow: .2em .2em silver;
+}
+
+.pregA{
+    color: red;
+}
+
+.fondo{
+    display: inline-block;
+    background-color: white;
+    margin: 10px auto;
+}
+
